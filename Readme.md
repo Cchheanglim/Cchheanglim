@@ -4,7 +4,7 @@
 
 ### 🚀 AI-Native Developer · Full-Stack Engineer · Open-Source Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Desktop+%26+Web+Apps;Creator+of+Craftora+Video+Workspace;Full-Stack+Engineer+from+Phnom+Penh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Developer+%26+Full-Stack+Engineer;Building+Web%2C+Desktop+%26+POS+Systems;Orchestrating+AI+Agents+%26+Local+LLMs)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:chheanglimchhum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -18,11 +18,10 @@
 
 ## 👨‍💻 About Me
 
-- **AI-Native Builder** – Designing desktop and web tools integrated with AI agents and modern LLM workflows
-- **Product Focused** – Creator of **[Craftora](https://github.com/Cchheanglim/Craftora)**, a local-first desktop video editor and media workspace
-- **Full-Stack & Tooling** – Building across desktop apps, media pipelines (`FFmpeg`, `yt-dlp`), and web services
-- **Based in** – Phnom Penh, Cambodia 🇰🇭
-- **Contact** – [chheanglimchhum@gmail.com](mailto:chheanglimchhum@gmail.com)
+- **AI-Native Workflow** – Designing and shipping software by orchestrating AI coding agents (`Claude Code`, `Antigravity`) and local LLMs (`LM Studio`)
+- **Full-Stack Engineering** – Building end-to-end web apps, e-commerce storefronts, POS systems, and desktop tools
+- **Backend & Infrastructure** – Working across `Laravel`, `Flask`, `Node.js`, `PostgreSQL`, `MySQL`, and `Docker`
+- **Multi-Language** – `Python`, `Rust`, `Dart`, `TypeScript`, `JavaScript`, `PHP`
 
 ---
 
@@ -30,7 +29,9 @@
 
 | Project | What I Built | Tech Stack | Badges |
 | :--- | :--- | :--- | :--- |
-| **[Craftora](https://github.com/Cchheanglim/Craftora)** | **Desktop Video Editor & Personal Workspace**<br>• Multi-track timeline editing (trim, split, PiP, titles, speed & audio)<br>• Built-in media downloader powered by `yt-dlp` & `FFmpeg`<br>• Integrated Gemini AI assistant for automated editing workflows | `TypeScript` `Desktop` `FFmpeg` `yt-dlp` `Gemini AI` | ![Stars](https://img.shields.io/github/stars/Cchheanglim/Craftora?style=flat-square&color=yellow) ![Last Commit](https://img.shields.io/github/last-commit/Cchheanglim/Craftora?style=flat-square&color=blue) ![License](https://img.shields.io/github/license/Cchheanglim/Craftora?style=flat-square) |
+| **[Craftora](https://github.com/Cchheanglim/Craftora)** | **Desktop Video Editor & Media Workspace**<br>• Multi-track timeline editing (trim, split, PiP, titles, speed & audio)<br>• Built-in media downloader powered by `yt-dlp` & `FFmpeg` & `Webview`<br>• Integrated AI assistant for automated editing workflows | `TypeScript` `Desktop` `FFmpeg` `yt-dlp` `AI Assistant(API Require)` | ![Stars](https://img.shields.io/github/stars/Cchheanglim/Craftora?style=flat-square&color=yellow) ![Last Commit](https://img.shields.io/github/last-commit/Cchheanglim/Craftora?style=flat-square&color=blue) ![License](https://img.shields.io/github/license/Cchheanglim/Craftora?style=flat-square) |
+| **[Modern-smartpos](https://github.com/Cchheanglim/Modern-smartpos)** | **Smart Point-of-Sale (POS) System**<br>• Sales, checkout, inventory, and order management workflows<br>• Fast, responsive interface for retail operations and reporting | `Full-Stack` `POS` `Database` | ![Stars](https://img.shields.io/github/stars/Cchheanglim/Modern-smartpos?style=flat-square&color=yellow) ![Last Commit](https://img.shields.io/github/last-commit/Cchheanglim/Modern-smartpos?style=flat-square&color=blue) ![Top Lang](https://img.shields.io/github/languages/top/Cchheanglim/Modern-smartpos?style=flat-square) |
+| **[psaaccessoriesonline](https://github.com/Cchheanglim/psaaccessoriesonline)** | **Online Accessories E-Commerce Platform**<br>• Product catalog, shopping cart, and customer order management<br>• Responsive storefront and admin inventory controls<br>• AI Chatbot | `Full-Stack` `E-Commerce` `Web` `Laravel`| ![Stars](https://img.shields.io/github/stars/Cchheanglim/psaaccessoriesonline?style=flat-square&color=yellow) ![Last Commit](https://img.shields.io/github/last-commit/Cchheanglim/psaaccessoriesonline?style=flat-square&color=blue) ![Top Lang](https://img.shields.io/github/languages/top/Cchheanglim/psaaccessoriesonline?style=flat-square) |
 
 ---
 
@@ -78,20 +79,6 @@
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/LM_Studio-6C5CE7?style=for-the-badge&logo=sparkles&logoColor=white" alt="LM Studio" />
   <img src="https://img.shields.io/badge/Local_LLMs-10A37F?style=for-the-badge&logo=ollama&logoColor=white" alt="Local LLMs" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
 ---
-
-## 📈 Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cchheanglim&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cchheanglim&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cchheanglim&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
