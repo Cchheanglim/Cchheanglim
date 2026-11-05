@@ -4,7 +4,7 @@
 
 ### 🚀 AI-Native Developer · Full-Stack Engineer · Open-Source Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Developer+%26+Full-Stack+Engineer;Building+Web%2C+Desktop+%26+POS+Systems;Orchestrating+AI+Agents+%26+Local+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI-Native+Developer+%26+Full-Stack+Engineer;Orchestrating+AI+Agents+%26+Local+LLMs)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:chheanglimchhum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
